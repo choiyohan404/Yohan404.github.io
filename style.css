@@ -1,0 +1,48 @@
+
+
+
+
+
+@media screen and (max-width:2000px){
+    .font-size-problem{
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width:1200px){
+    .font-size-problem{
+        font-size: 20px;
+    }
+}
+
+.main-background {
+    width: 100%;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: #f7f9fc;
+    padding-bottom: 200px;
+}
+
+@media screen and (min-width:1000px){
+    .main-background {
+      padding-top: 40px;
+      padding-right: 50px;
+      padding-left: 50px;
+    }
+}
+
+.profile-container {
+    background-color: white;
+    padding: 25px;
+}
+
+.about-between {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    width: 100%;
+    height: 5px;
+    background-color: #eee;
+}
